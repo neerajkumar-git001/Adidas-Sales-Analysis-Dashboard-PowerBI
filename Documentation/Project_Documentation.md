@@ -31,7 +31,40 @@ This project demonstrates practical knowledge of:
 
 ---
 
-## 2. Business Problem
+
+## Dashboard Preview
+
+The following screenshot presents the Adidas Sales Analysis
+Dashboard developed in Microsoft Power BI.
+
+The dashboard provides a business-focused overview of:
+
+- Total Sales
+- Operating Profit
+- Units Sold
+- Average Price
+- Profit Margin
+- Product Performance
+- Regional Performance
+- Retailer Performance
+- Sales Method Analysis
+- Business Growth Trends
+
+### Dashboard Screenshot
+
+![Adidas Sales Analysis Dashboard](Adidas_Sales_Analysis_Dashboard_Preview.png)
+
+### Dashboard Purpose
+
+This dashboard helps stakeholders evaluate sales performance,
+identify profitable products and regions, compare retailer
+contributions, and understand business growth trends.
+
+Interactive filters allow users to analyze performance
+across different products, regions, retailers, and sales methods.
+
+--- 
+## 3. Business Problem
 
 Adidas sales data contains information about products, retailers,
 locations, pricing, units sold, operating profit, operating margin,
@@ -64,7 +97,7 @@ sales performance and identifying business opportunities.
 
 ---
 
-## 3. Project Objectives
+## 4. Project Objectives
 
 The main objectives of this project are:
 
@@ -82,7 +115,7 @@ The main objectives of this project are:
 
 ---
 
-## 4. Dataset Information
+## 5. Dataset Information
 
 ### Dataset Name
 
@@ -129,7 +162,7 @@ This calculation is implemented using DAX in Power BI.
 
 ---
 
-## 5. Tools and Technologies
+##  6. Tools and Technologies
 
 | Tool | Purpose | Reference |
 |---|---|---|
@@ -141,7 +174,7 @@ This calculation is implemented using DAX in Power BI.
 
 ---
 
-## 6. Data Cleaning and Transformation
+## 7. Data Cleaning and Transformation
 
 The dataset was reviewed and prepared before dashboard development.
 
@@ -179,7 +212,7 @@ Approximately 9,648 usable records were used for analysis.
 
 ---
 
-## 7. Data Model
+## 8. Data Model
 
 The Adidas sales table is used as the primary fact table.
 
@@ -218,7 +251,7 @@ calculate previous-year and growth measures.
 
 ---
 
-## 8. Key Performance Indicators
+## 9. Key Performance Indicators
 
 The dashboard contains the following KPIs:
 
@@ -245,7 +278,7 @@ and calculation methods.
 
 ---
 
-## 9. DAX Measures Documentation
+## 10. DAX Measures Documentation
 
 The DAX measures are organized into separate files.
 
@@ -258,7 +291,7 @@ The DAX measures are organized into separate files.
 
 ---
 
-## 10. Calendar Table Measures
+## 11. Calendar Table Measures
 
 The calendar table is used for time intelligence and date-based
 analysis.
@@ -279,7 +312,7 @@ Detailed documentation:
 
 ---
 
-## 11. Sales Performance Measures
+## 12. Sales Performance Measures
 
 Sales performance measures calculate the primary KPIs used
 in the dashboard.
@@ -298,7 +331,7 @@ Detailed documentation:
 
 ---
 
-## 12. Previous-Year Analysis
+## 13. Previous-Year Analysis
 
 Previous-year measures are used to compare current performance
 with the corresponding period in the previous year.
@@ -317,7 +350,7 @@ Detailed documentation:
 
 ---
 
-## 13. Growth Analysis
+## 14. Growth Analysis
 
 The dashboard calculates growth for the following KPIs:
 
@@ -348,7 +381,7 @@ Detailed documentation:
 
 ---
 
-## 14. Growth Display Measures
+## 15. Growth Display Measures
 
 Growth display measures format the calculated growth values
 for dashboard presentation.
@@ -366,7 +399,7 @@ Detailed documentation:
 
 ---
 
-## 15. Dashboard Features
+## 16. Dashboard Features
 
 The dashboard provides an interactive overview of Adidas
 sales performance.
@@ -407,7 +440,7 @@ The dashboard includes:
 
 ---
 
-## 16. Dashboard Filters
+## 17. Dashboard Filters
 
 The dashboard provides filters for:
 
@@ -427,7 +460,7 @@ to analyze the sales performance of that segment.
 
 ---
 
-## 17. Conditional Formatting
+## 18. Conditional Formatting
 
 Conditional formatting is used to highlight KPI growth performance.
 
@@ -453,7 +486,7 @@ business insight cards where appropriate.
 
 ---
 
-## 18. Dashboard Visual Explanation
+## 19. Dashboard Visual Explanation
 
 ### KPI Cards
 
@@ -513,7 +546,7 @@ and channel contribution.
 
 ---
 
-## 19. Business Insights
+## 20. Business Insights
 
 ### Regional Performance
 
@@ -557,7 +590,7 @@ for understanding growth and decline.
 
 ---
 
-## 20. Business Recommendations
+## 21. Business Recommendations
 
 Based on the dashboard analysis, the following actions
 can be considered:
@@ -581,7 +614,7 @@ operational information before implementation.
 
 ---
 
-## 21. Project Limitations
+## 22. Project Limitations
 
 - The dataset covers only the period from 2020 to 2021.
 - The analysis is limited to the available dataset columns.
@@ -596,7 +629,7 @@ operational information before implementation.
 
 ---
 
-## 22. Future Improvements
+## 23. Future Improvements
 
 Possible future improvements include:
 
@@ -613,7 +646,7 @@ Possible future improvements include:
 
 ---
 
-## 23. Project Resources
+## 24. Project Resources
 
 ### Dataset
 
@@ -640,7 +673,7 @@ Possible future improvements include:
 
 ---
 
-## 24. External References
+## 25. External References
 
 The following official resources can be used to understand
 the tools and concepts applied in this project.
@@ -655,7 +688,7 @@ the tools and concepts applied in this project.
 
 ---
 
-## 25. GitHub Repository Structure
+## 26. GitHub Repository Structure
 
 ```text
 Adidas-Sales-Analysis-Dashboard/
@@ -682,7 +715,7 @@ Adidas-Sales-Analysis-Dashboard/
 
 ---
 
-## 26. Project Outcome
+## 27. Project Outcome
 
 This project demonstrates practical knowledge of:
 
@@ -702,7 +735,7 @@ dashboard that supports structured business analysis.
 
 ---
 
-## 27. Conclusion
+## 28. Conclusion
 
 The Adidas Sales Analysis Dashboard provides a consolidated
 view of sales, profit, units sold, pricing, margin, products,
