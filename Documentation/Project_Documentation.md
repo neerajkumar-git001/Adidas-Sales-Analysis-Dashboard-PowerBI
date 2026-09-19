@@ -433,10 +433,10 @@ Conditional formatting is used to highlight KPI growth performance.
 
 ### Formatting Logic
 
-| Condition | Color |
-|---|---|
-| Positive growth | Green |
-| Negative growth | Red |
+| Condition | Color | Hex |
+|---|---|---|
+| Positive growth | Green | #16A34A |
+| Negative growth | Red | #DC2626 |
 
 ### Business Purpose
 
