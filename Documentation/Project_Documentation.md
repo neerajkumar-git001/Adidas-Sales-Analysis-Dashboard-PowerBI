@@ -52,7 +52,7 @@ The dashboard provides a business-focused overview of:
 
 ### Dashboard 
 
-![Adidas Sales Analysis Dashboard](Adidas_Sales_Analysis_Dashboard_Preview.png)
+![Adidas Sales Analysis Dashboard](../KPIs%20Image/Adidas_Sales_Analysis_Dashboard_Preview.png)
 
 ### Dashboard Purpose
 
