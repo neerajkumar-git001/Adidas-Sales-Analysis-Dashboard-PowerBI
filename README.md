@@ -13,7 +13,7 @@ meaningful business insights that support better decision-making.
 
 ## Dashboard Preview
 
-![Adidas Sales Analysis Dashboard](KPIs%20Image/Adidas_Sales_Analysis_Dashboard.png)
+![Adidas Sales Analysis Dashboard](Adidas_Sales_Analysis_Dashboard_Preview.png)
 
 ---
 
@@ -67,13 +67,13 @@ and areas that require further business investigation.
 
 ### Overall Performance Summary
 
-| Metric | Value |
+| Metric | Approximately Value |
 |---|---:|
-| Total Sales | Approximately $899.90M |
-| Total Operating Profit | Approximately $332.13M |
-| Total Units Sold | Approximately 17.89M |
-| Average Price per Unit | Approximately $45.22 |
-| Weighted Profit Margin | Approximately 36.91% |
+| Total Sales |  $899.90M |
+| Total Operating Profit |  $332.13M |
+| Total Units Sold |  17.89M |
+| Average Price per Unit |  $45.22 |
+| Weighted Profit Margin |  36.91% |
 
 > Values may vary depending on filters and calculation methods.
 
