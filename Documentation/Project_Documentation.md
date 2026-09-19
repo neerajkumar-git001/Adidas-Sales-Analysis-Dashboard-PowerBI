@@ -50,7 +50,7 @@ The dashboard provides a business-focused overview of:
 - Sales Method Analysis
 - Business Growth Trends
 
-### Dashboard Screenshot
+### Dashboard 
 
 ![Adidas Sales Analysis Dashboard](Adidas_Sales_Analysis_Dashboard_Preview.png)
 
