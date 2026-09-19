@@ -61,3 +61,36 @@ AVERAGE('Data Sales Adidas'[Operating Margin])
 
 **Description:** Calculates the arithmetic average of operating margins across sales records to evaluate the average profitability percentage of individual records.
 
+## 6. Previous Year Sales
+
+```DAX
+PreviousYearSales =
+CALCULATE(
+    [Total Sales],
+    DATEADD(
+        'Calendar Table'[Date],
+        -1,
+        YEAR
+    )
+)
+```
+
+**Description:** Calculates total sales for the corresponding period in the previous year using the DATEADD function, enabling year-over-year sales comparisons and performance evaluation.
+
+---
+
+## 7. Previous Year Profit
+
+```DAX
+PreviousYearProfit =
+CALCULATE(
+    [Total Profit],
+    DATEADD(
+        'Calendar Table'[Date],
+        -1,
+        YEAR
+    )
+)
+```
+
+**Description:** Calculates total operating profit for the corresponding period in the previous year, supporting year-over-year profitability analysis and evaluation of business performance changes.
