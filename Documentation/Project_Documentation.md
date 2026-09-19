@@ -232,13 +232,13 @@ The dashboard contains the following KPIs:
 
 ### Overall KPI Summary
 
-| Metric | Value |
+| Metric | Approximately Value |
 |---|---:|
-| Total Sales | Approximately $899.90M |
-| Total Operating Profit | Approximately $332.13M |
-| Total Units Sold | Approximately 17.89M |
-| Average Price per Unit | Approximately $45.22 |
-| Weighted Profit Margin | Approximately 36.91% |
+| Total Sales | $899.90M |
+| Total Operating Profit |  $332.13M |
+| Total Units Sold |  17.89M |
+| Average Price per Unit |  $45.22 |
+| Weighted Profit Margin |  36.91% |
 
 **Note:** KPI values may vary depending on filters, data preparation,
 and calculation methods.
