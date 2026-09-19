@@ -1,4 +1,4 @@
-# Calendar Measures
+# Calendar Table Measures
 
 This document contains the DAX calculated table and calculated columns used to create the Calendar table. The table serves as the primary date dimension for enabling time intelligence calculations, filtering, and trend analysis across the report.
 
